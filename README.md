@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+este es la aplicacion de ejemplo SECCION 7: PELICULAS app
+tiene el defecto que en la leccion 109  no se puede ver el movie slider.
